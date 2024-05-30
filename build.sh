@@ -36,7 +36,7 @@ rpm-ostree install steam
 rpm-ostree install klassy
 
 # this would install a package from a RPM downloaded from the web
-rpm-ostree install https://github.com/ilya-zlobintsev/LACT/releases/download/v0.5.4/lact-0.5.4-0.x86_64.fedora-40.rpm
+#rpm-ostree install https://github.com/ilya-zlobintsev/LACT/releases/download/v0.5.4/lact-0.5.4-0.x86_64.fedora-40.rpm
 
 #### Example for enabling a System Unit File
 
